@@ -10,7 +10,7 @@
 
 Clarity is not the absence of chaos. It is the ability to find meaning within it.
 
-![Three nested circles labeled Clues, Context, and Clarity, surrounded by Chaos](diagrams/three-circles-of-clarity.svg)
+![Three nested circles labeled Clues, Context, and Clarity, surrounded by Chaos](three-circles-of-clarity.svg)
 
 ## Origin
 
@@ -22,12 +22,8 @@ During a production incident, alerts, logs, traces, and user reports can feel ch
 
 ## Attribution
 
-Created by **Shailendra Singh Negi** for *Human in the Loop*.
-
-When sharing this framework, please credit Shailendra Singh Negi and link to [this repository](https://github.com/shailendranegi/three-circles-of-clarity).
+When sharing this framework or an adaptation of it, credit **Shailendra Singh Negi**, link to [this original repository](https://github.com/shailendranegi/three-circles-of-clarity) and the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), and indicate whether you made changes. Use a reasonable attribution format for the medium.
 
 ## License
 
-**Proposed for author review:** CC BY-NC-ND 4.0, consistent with the license used for the Enterprise AI Architecture Framework. Confirm this choice before publishing. It permits noncommercial sharing with attribution but does not permit sharing adaptations. If you want others to build on or adapt the framework, consider a different license.
-
-See [LICENSE](LICENSE) and the [official legal code](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
+This work is licensed under **CC BY 4.0**. You may share and adapt it, including for commercial purposes, provided you follow the license terms and give attribution. See [LICENSE](LICENSE) and the [official legal code](https://creativecommons.org/licenses/by/4.0/legalcode).
