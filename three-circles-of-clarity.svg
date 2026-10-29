@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+  <title id="title">The Three Circles of Clarity</title>
+  <desc id="desc">Chaos is the surrounding environment. The outer circle is Clues, the middle circle is Context, and Clarity is at the center.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b35"/>
+      <stop offset="1" stop-color="#172b50"/>
+    </linearGradient>
+    <radialGradient id="outer" cx="50%" cy="42%" r="68%">
+      <stop offset="0" stop-color="#203a68"/>
+      <stop offset="1" stop-color="#142748"/>
+    </radialGradient>
+    <radialGradient id="middle" cx="50%" cy="42%" r="72%">
+      <stop offset="0" stop-color="#2b4d80"/>
+      <stop offset="1" stop-color="#1b365f"/>
+    </radialGradient>
+    <radialGradient id="inner" cx="50%" cy="38%" r="72%">
+      <stop offset="0" stop-color="#dce9f8"/>
+      <stop offset="1" stop-color="#a9c5e6"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="760" rx="28" fill="url(#bg)"/>
+  <text x="500" y="58" text-anchor="middle" fill="#f4f7fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="650" letter-spacing="1.5">THE THREE CIRCLES OF CLARITY</text>
+
+  <g fill="#c4d2e7" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="500" y="112" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="3">CHAOS</text>
+    <text x="500" y="137" text-anchor="middle" font-size="14" opacity="0.82">the surrounding environment</text>
+    <text x="500" y="724" text-anchor="middle" font-size="14" opacity="0.82">Clarity is not the absence of chaos. It is the ability to find meaning within it.</text>
+  </g>
+
+  <circle cx="500" cy="425" r="270" fill="url(#outer)" stroke="#6f8fb9" stroke-width="2"/>
+  <circle cx="500" cy="425" r="190" fill="url(#middle)" stroke="#91add0" stroke-width="2"/>
+  <circle cx="500" cy="425" r="108" fill="url(#inner)" stroke="#dce9f8" stroke-width="2"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="500" y="211" fill="#f4f7fc" font-size="24" font-weight="700" letter-spacing="2">CLUES</text>
+    <text x="500" y="296" fill="#f4f7fc" font-size="22" font-weight="700" letter-spacing="1.6">CONTEXT</text>
+    <text x="500" y="420" fill="#152a49" font-size="21" font-weight="750" letter-spacing="1.2">CLARITY</text>
+    <text x="500" y="450" fill="#263d5e" font-size="14">what matters</text>
+  </g>
+</svg>
